@@ -1,2 +1,2 @@
 # Counter
-Mobile computing counter
+Mobile computing counter App
